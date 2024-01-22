@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ayomi\\source\\repos\\webapi\\webapi\\webapi.csproj": {}
+    "C:\\Users\\ayomi\\Documents\\programming\\DotNet8\\webapi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ayomi\\source\\repos\\webapi\\webapi\\webapi.csproj": {
+    "C:\\Users\\ayomi\\Documents\\programming\\DotNet8\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ayomi\\source\\repos\\webapi\\webapi\\webapi.csproj",
+        "projectUniqueName": "C:\\Users\\ayomi\\Documents\\programming\\DotNet8\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "c:\\Users\\ayomi\\source\\repos\\webapi\\webapi\\webapi.csproj",
+        "projectPath": "C:\\Users\\ayomi\\Documents\\programming\\DotNet8\\webapi.csproj",
         "packagesPath": "C:\\Users\\ayomi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ayomi\\source\\repos\\webapi\\webapi\\obj\\",
+        "outputPath": "C:\\Users\\ayomi\\Documents\\programming\\DotNet8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ayomi\\AppData\\Roaming\\NuGet\\NuGet.Config",
